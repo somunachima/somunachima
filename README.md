@@ -1,7 +1,7 @@
 ### Hey I’m Som! 👩🏾‍💻
 **I'm a full-stack software engineer based just outside of London, UK 😁**
 
-- 👟 Currently working on an awesome 3D Animation Website, sneaker heads 🔥
+- 👟 Currently working on an awesome 3D animation website, sneaker heads 🔥
 - 🌱 Learning **React.js**, **Next.js**, **Three.js** and **TypeScript**
 - 🚀 I created:
     - 🩻  [scanHer](https://www.scanher.co.uk/) (with a team!)
@@ -14,6 +14,6 @@
 - 👀 And actively looking for a full stack developer role
 - 📫 Contact me on [**LinkedIn**](https://www.linkedin.com/in/somakudu/)
 - ✨ Check out my [**website**](https://www.somunachima.com/)
-- 📧 Or [**email**](somakudu@gmail.com)
+- 📧 Or **email me** at somakudu@gmail.com
 - 🤗 Fun fact: I paint and draw illustrations! 🎨 
 
