@@ -16,4 +16,3 @@
 - ✨ Check out my [**website**](https://www.somunachima.com/)
 - 📧 Or **email me** at somakudu@gmail.com
 - 🤗 Fun fact: I paint and draw illustrations! 🎨 
-
