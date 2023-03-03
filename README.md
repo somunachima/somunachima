@@ -13,6 +13,6 @@
     
 - 👀 And actively looking for a full stack developer role
 - 📫 Contact me on [**LinkedIn**](https://www.linkedin.com/in/somakudu/)
-- ✨ Check out my [**website**](https://www.somunachima.com/)
+- ✨ Check out my [**website**](https://www.somunachima.com/) which I designed and built from scratch
 - 📧 Or **email me** at somakudu@gmail.com
 - 🤗 Fun fact: I paint and draw illustrations! 🎨 
