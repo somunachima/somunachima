@@ -1,7 +1,7 @@
 ### Hey I’m Som! 👩🏾‍💻
 **I'm a full-stack software engineer based just outside of London, UK 😁**
 
-- 👟 Currently working on an awesome 3D animation website, **Sneaker Heads**, for sneaker lovers like me to buy sneakers 🔥
+- 👟 Currently working on a wicked 3D animation React app, **Sneaker Heads**, where sneaker lovers like me can buy sneakers 🔥
 - 🌱 Learning **React.js**, **Next.js**, **Three.js** and **TypeScript**
 - 🚀 I created:
     - 🩻  [scanHer](https://www.scanher.co.uk/) (with a team!)
