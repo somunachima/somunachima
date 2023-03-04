@@ -7,7 +7,7 @@
     - ✍️ [Productivity Planner](https://productivity-planner-sigma.vercel.app/)
     - 🧃 [Anime Shoutouts](https://anime-shoutouts.vercel.app/)
     - 🍩 [Go Donuts](https://somunachima.github.io/threejs-donut/)
-    - 🩻  [scanHer](https://www.scanher.co.uk/) (with a team!)
+    - 🩻   [scanHer](https://www.scanher.co.uk/) (with a team!)
     - 📚 [Get Your Own Teaching Assistant](https://github.com/AranSeehra/gyota) (also with a team!)
     - 💻 I code using `.rb`, `.js`, `.tsx`, `.html`, `.css` 
     
