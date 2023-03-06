@@ -1,7 +1,7 @@
 ### Hey I’m Som! 👩🏾‍💻
 **I'm a full-stack software engineer based just outside of London, UK 😁**
 
-- 👟 Currently working on a wicked 3D animation React app, **Sneaker Heads**, where sneaker lovers like me can buy sneakers 🔥
+- 🛌 Currently working on a wicked app, **Homies**, where renters can find a flatshare 🔥
 - 🌱 Learning **React.js**, **Next.js**, **Three.js** and **TypeScript**
 - 🚀 I created:
     - ✍️ [Productivity Planner](https://productivity-planner-sigma.vercel.app/)
