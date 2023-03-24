@@ -1,5 +1,5 @@
 ### Hey I’m Som! 👩🏾‍💻
-**I'm a full-stack software engineer based just outside of London, UK 😁**
+**I'm a full-stack software engineer based in London, UK 😁**
 
 - 🛌 Currently working on a wicked React app, [**Homies**](https://github.com/somunachima/homies), where renters can match with a new flatmate to live with 🔥
 - 🌱 Learning **React.js**, **Next.js**, **Three.js** and **TypeScript**
