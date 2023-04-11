@@ -2,7 +2,7 @@
 **I'm a full-stack software engineer based in London, UK 😁**
 
 - 🛌 Currently working on [**Homies**](https://github.com/somunachima/homies), which is an app where renters can match with a new flatmate to live with 🔥
-- 🌱 Learning **React.js**, **Next.js**, **Three.js** and **TypeScript**
+- 🌱 Learning **React.js** and **TypeScript**
 - 🚀 I built:
     - ✍️ [Productivity Planner](https://productivity-planner-sigma.vercel.app/)
     - 🧃 [Anime Shoutouts](https://anime-shoutouts.vercel.app/)
