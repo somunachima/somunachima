@@ -1,7 +1,7 @@
 ### Hey I’m Som! 👩🏾‍💻
 **I'm a full-stack software engineer based in London, UK 😁**
 
-- 🛌 Currently working on a Node.js app, [**Homies**](https://github.com/somunachima/homies), where renters in London can match with a new flatmate to live with 🔥
+- 🛌 Currently working on a Node.js app, [**Homies**](https://github.com/somunachima/homies) for renters in London 🔥
 - 🌱 Learning **Python** and **React.js**
 - 🚀 I built:
     - ✍️ [Productivity Planner](https://productivity-planner-sigma.vercel.app/)
