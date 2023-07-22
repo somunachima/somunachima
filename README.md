@@ -4,6 +4,7 @@
 - 🧃 Currently working on [Anime Shoutouts](https://anime-shoutouts.vercel.app/) where anime fans can share recommendations 🔥
 - 🌱 Learning **Python** and **React.js**
 - 🚀 I built:
+    - 🛍 [Shopping Run](https://github.com/somunachima/shopping-run/tree/main) 
     - 🏎 [Car Dashboard](https://car-dashboard-ten.vercel.app/) 
     - ✍️ [Productivity Planner](https://productivity-planner-sigma.vercel.app/) 
     - 🍩 [Go Donuts](https://somunachima.github.io/threejs-donut/)
