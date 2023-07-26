@@ -12,7 +12,5 @@
     - 📚 [Get Your Own Teaching Assistant](https://github.com/AranSeehra/gyota) (also with a team!)
     - 💻 I code using `.rb`, `.js`, `.html`, `.css` 
     
-- 📫 Contact me on [**LinkedIn**](https://www.linkedin.com/in/somakudu/)
 - ✨ Check out my [**portfolio website**](https://www.somunachima.com/) which I designed and built from scratch
-- 📧 Or **email me** at somakudu@gmail.com
 - 🤗 Fun fact: I paint and draw illustrations! 🎨 
