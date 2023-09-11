@@ -14,4 +14,4 @@
     - 💻 I code using `.rb`, `.py`, `.js`, `.html`, `.css` 
     
 - ✨ Check out my [**portfolio website**](https://www.somunachima.com/) which I designed and built from scratch
-- 🤗 Fun fact: I paint and draw illustrations! 🎨 
+- 🤗 Fun fact: I paint and draw illustrations! 🎨  
