@@ -2,7 +2,7 @@
 **I'm a full-stack software engineer working in London, UK 😁**
 
 - 🦾 Currently working on **[Health Connect](https://developer.android.com/health-and-fitness/guides/health-connect)** for Android at Google 🏃🏾‍♀️
-- 🌱 Learning **Python** and **React.js**
+- 🌱 Learning **Python** and **Java**
 - 🚀 I built:
     - 🧃 [Anime Shoutouts](https://anime-shoutouts.vercel.app/)
     - 🛍 [Shopping Run](https://github.com/somunachima/shopping-run/tree/main) 
