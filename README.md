@@ -13,5 +13,4 @@
     - 📚 [Get Your Own Teaching Assistant](https://github.com/AranSeehra/gyota) (also with a team!)
     - 💻 I code using `.java`, `.rb`, `.py`, `.kt`, `.js`, `.html`, `.css` 
     
-- ✨ Check out my [**portfolio website**](https://www.somunachima.com/) which I designed and built from scratch
 - 🤗 Fun fact: I paint and draw illustrations! 🎨  
