@@ -1,6 +1,6 @@
 ### Hey I’m Som! 👩🏾‍💻
 **I'm a full-stack software engineer working in London, UK 😁**
-✨ Check out my [**portfolio website**](https://www.somunachima.com/)
+- ✨ Check out my [**portfolio website**](https://www.somunachima.com/)
 
 - 🦾 Currently working on **[Health Connect](https://developer.android.com/health-and-fitness/guides/health-connect)** for Android at Google 🏃🏾‍♀️
 - 🌱 Use **Python**, **Java** and **Kotlin**
