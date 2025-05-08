@@ -5,6 +5,7 @@
 - 🦾 Currently working on **[Health Connect](https://developer.android.com/health-and-fitness/guides/health-connect)** for Android at Google 🏃🏾‍♀️
 - 🌱 Use **Python**, **Java** and **Kotlin**
 - 🚀 I built:
+    - 🧱 [Tetris](https://tetris-gilt-phi.vercel.app/)
     - 🧃 [Anime Shoutouts](https://github.com/somunachima/anime-shoutouts)
     - 🛍 [Shopping Run](https://github.com/somunachima/shopping-run/tree/main) 
     - 🏎 [Car Dashboard](https://car-dashboard-ten.vercel.app/) 
